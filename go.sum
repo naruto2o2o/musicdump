@@ -1,0 +1,14 @@
+github.com/bogem/id3v2 v1.1.1 h1:FnjS2vytMeEb39tOMG09uz852MaEccA2A3asRM3XxbE=
+github.com/bogem/id3v2 v1.1.1/go.mod h1:D1rDm80qF/ocBU+Ik8U4RKnwMq/oNkkB8vGcnrlMJmM=
+github.com/ddliu/go-httpclient v0.6.3 h1:WGayEAjRC2/EiZnJdTYiOLyxHcl0c2GhokZTTqTd4kQ=
+github.com/ddliu/go-httpclient v0.6.3/go.mod h1:8QVbjq00YK2f2MQyiKuWMdaKOFRcoD9VuubkNCNOuZo=
+github.com/go-flac/flacpicture v0.2.0 h1:rS/ZOR/ZxlEwMf3yOPFcTAmGyoV6rDtcYdd+6CwWQAw=
+github.com/go-flac/flacpicture v0.2.0/go.mod h1:M4a1J0v6B5NHsck4GA1yZg0vFQzETVPd3kuj6Ow+q9o=
+github.com/go-flac/flacvorbis v0.1.0 h1:xStJfPrZ/IoA2oBUEwgrlaSf+Opo6/YuQfkqVhkP0cM=
+github.com/go-flac/flacvorbis v0.1.0/go.mod h1:70N9vVkQ4Jew0oBWkwqDMIE21h7pMUtQJpnMD0js6XY=
+github.com/go-flac/go-flac v0.2.0 h1:OHkzRdNe3FgE8siGxHTEDmIx0VlnoTEFcMsr8Vi5TEo=
+github.com/go-flac/go-flac v0.2.0/go.mod h1:P86QyESY/OI+SZWx/O6xU2a43+9lQ4SPcjZ/RKSFZZs=
+github.com/google/go-cmp v0.3.1 h1:Xye71clBPdm5HgqGwUkwhbynsUJZhDbS20FvLhQ2izg=
+github.com/google/go-cmp v0.3.1/go.mod h1:8QqcDgzrUqlUb/G2PQTWiueGozuR1884gddMywk6iLU=
+golang.org/x/text v0.3.0 h1:g61tztE5qeGQ89tm6NTjjM9VPIm088od1l6aSorWRWg=
+golang.org/x/text v0.3.0/go.mod h1:NqM8EUOU14njkJ3fqMW+pc6Ldnwhi/IjpwHt7yyuwOQ=
